@@ -1,0 +1,6 @@
+.env
+node_modules
+artifacts
+package.json
+img
+README.md
